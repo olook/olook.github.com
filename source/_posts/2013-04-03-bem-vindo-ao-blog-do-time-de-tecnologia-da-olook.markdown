@@ -3,6 +3,7 @@ layout: post
 title: "Bem vindo ao blog do Time de Tecnologia da Olook"
 date: 2013-04-03 20:17
 comments: true
+author: Nelson Haraguchi
 categories: 
 ---
 
