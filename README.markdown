@@ -13,6 +13,9 @@ Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
 
 Check out [Octopress.org](http://octopress.org/docs) for guides and documentation.
 
+## Setup
+
+We're using github-pages to deploy this blog. So if you just cloned this repository, run rake setup\_github\_pages to properly configure your machine to deploy new posts and changes to the blog.
 
 ## Contributing
 
