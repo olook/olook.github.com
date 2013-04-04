@@ -4,7 +4,7 @@
 
 url: http://olook.github.com
 title: Tech Team Olook
-subtitle: Seu Look. Seu Estilo.
+subtitle: Tech Team Blog
 author: Tech Team
 simple_search: http://google.com/search
 description:
@@ -85,8 +85,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: olooktechblog
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:

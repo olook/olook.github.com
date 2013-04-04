@@ -4,8 +4,15 @@ body > header {
     display: inline-block;
     margin: 0;
     a, a:visited, a:hover {
+      background: image-url('sprite_header.png') no-repeat 0 -72px;
+      display: block;
       color: $title_color;
+      width: 240px;
+      height: 70px;
       text-decoration: none;
+      span {
+        display: none;
+      }
     }
   }
   h2 {
@@ -13,6 +20,6 @@ body > header {
     @extend .sans;
     font-size: 1em;
     color: $subtitle-color;
-    font-weight: normal;
+    font-weight: bold;
   }
 }
