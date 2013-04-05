@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tech Team Olook]]></title>
+  <link href="http://olook.github.com/atom.xml" rel="self"/>
+  <link href="http://olook.github.com/"/>
+  <updated>2013-04-05T17:53:05-03:00</updated>
+  <id>http://olook.github.com/</id>
+  <author>
+    <name><![CDATA[Tech Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bem vindo ao blog do Time de Tecnologia da Olook]]></title>
+    <link href="http://olook.github.com/post/2013/04/03/bem-vindo-ao-blog-do-time-de-tecnologia-da-olook/"/>
+    <updated>2013-04-03T20:17:00-03:00</updated>
+    <id>http://olook.github.com/post/2013/04/03/bem-vindo-ao-blog-do-time-de-tecnologia-da-olook</id>
+    <content type="html"><![CDATA[<p>Olá leitor! A Olook é um e-commerce focada no mercado de sapatos e <em>&#8220;Looks&#8221;</em> femininos. Além disso somos uma startup cheia de desafios tecnológicos e gerenciais.</p>
+
+<p>Esperamos compartilhar nossas experiências com o público e contribuir para o conhecimento <em>&#8220;opensource&#8221;</em> que tanto amamos.</p>
+
+<p>Em breve teremos mais informações que esse simples artigo de apresentação!</p>
+
+<p>Abraços!</p>
+]]></content>
+  </entry>
+  
+</feed>
